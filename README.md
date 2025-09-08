@@ -1,5 +1,6 @@
 <div align="center">
   <img height="150" src="https://cdn.pixabay.com/animation/2023/11/08/17/50/17-50-28-149_512.gif"  />
+  <p align="center"><i>Certified Homo Ludens</i></p>  
 </div>
 
 ###
@@ -8,10 +9,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000" height="25" alt="itchio logo"  />
 </div>
-
-###
-
-<h1 align="center">Hello there 🧔</h1>
 
 ###
 
