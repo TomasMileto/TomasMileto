@@ -10,7 +10,6 @@
   <img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000" height="25" alt="itchio logo"  />
 </div>
 <hr>
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
