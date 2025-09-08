@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hi! My name is Tomas, human person from Argentina<br><br>- 🔭 I’m working as a Technial Game Designer (I programm and I design) <br>- 📚 I'm currently learning about the intersection between play spaces and narrative interpretation. I am also working on an Unity Template, implementing some handy practices and patterns that meet the need for rapid prototyping in the middle. <br>- ⚡ In my free time I: Silksong, until further notice</p>
+<p align="left">Hi! My name is Tomas, human person from Argentina<br><br>- 🔭 I’m working as a Technical Game Designer (I program and I design) <br>- 📚 I'm currently learning about the intersection between play spaces and narrative interpretation. I am also working on a Unity Template, implementing some handy practices and patterns that meet the need for rapid prototyping in the middle. <br>- ⚡ In my free time I: Silksong, until further notice (Or I´m working on prototypes yeah yeah)</p>
 
 ###
 
